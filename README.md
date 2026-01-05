@@ -68,7 +68,7 @@ Interested in:
 ![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github)
 ![Antigravity](https://img.shields.io/badge/Antigravity_AI-000000?style=for-the-badge)
 
-### 🧱 3D, Game & World Building (Learning)
+### 🧱 3D, Game & World Building
 ![Blender](https://img.shields.io/badge/Blender-learning-000000?style=for-the-badge&logo=blender)
 ![SketchUp](https://img.shields.io/badge/SketchUp-learning-000000?style=for-the-badge&logo=sketchup)
 ![Gaea](https://img.shields.io/badge/Gaea-learning-000000?style=for-the-badge)
