@@ -1,7 +1,10 @@
-# 👋 Hi, I'm Keyithan
+<div align="center">
 
-🚀 **Full-Stack Developer | Tech Explorer**  
-🇱🇰 Sri Lanka
+# 👋 Hi, I'm Saththiyaseelan Keyithan  
+🚀 Full-Stack Developer | Engine & Tool Builder  
+🇱🇰 Sri Lanka  
+
+</div>
 
 ---
 
@@ -77,7 +80,6 @@ Interested in:
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-learning-000000?style=for-the-badge&logo=unrealengine)
 
 ---
-
 
 ## 🎯 Current Focus
 
