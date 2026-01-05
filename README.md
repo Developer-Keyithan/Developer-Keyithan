@@ -88,4 +88,11 @@ Interested in:
 
 ---
 
+## 📫 Connect
+
+- 📧 Email: devkeyithan@gmail.com  
+- 📍 Location: Sri Lanka 🇱🇰  
+
+---
+
 ⭐ *Build systems. Not just apps.*
