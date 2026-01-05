@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Keyithan
 
-🚀 **Full-Stack Developer | Engine & Tool Builder | Tech Explorer**  
+🚀 **Full-Stack Developer | Tech Explorer**  
 🇱🇰 Sri Lanka
 
 ---
