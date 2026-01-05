@@ -28,6 +28,7 @@ Interested in:
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
 ![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp)
 
 ### 🧩 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
