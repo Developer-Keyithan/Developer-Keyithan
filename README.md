@@ -90,8 +90,8 @@ Interested in:
 
 ## 📫 Connect
 
-- 📧 Email: devkeyithan@gmail.com  
-- 📍 Location: Sri Lanka 🇱🇰  
+- 📧 **Email:** devkeyithan@gmail.com  
+📍 **Location:** No-91, Arasadikkulam, Ceddikulam, Sri Lanka 🇱🇰
 
 ---
 
