@@ -14,7 +14,7 @@ I'm a developer who loves building **editors, engines, and full-stack systems**.
 I focus on **performance, architecture, and developer-friendly tools**.
 
 Interested in:
-- 🧩 Blueprint / Visual Editors  
+- 🧩 Visual Scripting Editors  
 - ⚙️ Engine & Core-level Systems  
 - 🌐 Web, Desktop & Native Apps  
 - 🤖 AI-assisted Development  
@@ -83,7 +83,7 @@ Interested in:
 
 ## 🎯 Current Focus
 
-- 🧠 Designing a **Blueprint / Visual Scripting Engine**
+- 🧠 Designing a **Visual Scripting Engine**
 - 🛠️ Building fast, editor-grade developer tools
 
 ---
