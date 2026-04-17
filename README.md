@@ -40,7 +40,7 @@ Interested in:
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 ![Electron](https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=electron)
-![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet)
+![.NET](https://img.shields.io/badge/.NET-learning-000000?style=for-the-badge&logo=dotnet)
 ![React Native](https://img.shields.io/badge/React_Native-learning-000000?style=for-the-badge&logo=react)
 ![Flutter](https://img.shields.io/badge/Flutter-learning-000000?style=for-the-badge&logo=flutter)
 
@@ -67,9 +67,9 @@ Interested in:
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap)
-![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
 ![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github)
-![Antigravity](https://img.shields.io/badge/Antigravity_AI-000000?style=for-the-badge)
+![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge)
 
 ### 🧱 3D, Game & World Building
 ![Blender](https://img.shields.io/badge/Blender-learning-000000?style=for-the-badge&logo=blender)
