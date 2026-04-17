@@ -74,7 +74,7 @@ Interested in:
 ![Chatgpt](https://img.shields.io/badge/Chat_GPT-000000?style=for-the-badge)
 ![Deepseek](https://img.shields.io/badge/Deepseek-000000?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
-![Google AI-Studio](https://img.shields.io/badge/Google_AI-Studio-000000?style=for-the-badge)
+![Google AI-Studio](https://img.shields.io/badge/Google_AI_Studio-000000?style=for-the-badge)
 
 ### 🧱 3D, Game & World Building
 ![Blender](https://img.shields.io/badge/Blender-learning-000000?style=for-the-badge&logo=blender)
