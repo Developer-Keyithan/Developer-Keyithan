@@ -53,6 +53,7 @@ Interested in:
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows)
 
 ### 🎨 Design & Media
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
